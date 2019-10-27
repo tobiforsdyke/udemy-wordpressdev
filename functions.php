@@ -16,3 +16,5 @@ add_action( 'after_setup_theme', 'tf_setup_theme' );
 add_action( 'widgets_init', 'tf_widgets' );
 
 // Shortcodes
+
+// Test
