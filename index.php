@@ -1,8 +1,5 @@
 <?php get_header(); ?>
 
-<!-- header-v2.php (this would search for a different version of the header, change v2 to suit) -->
-<!-- <?php get_header('v2'); ?> -->
-
 <!-- Content
 ============================================= -->
 <section id="content">
